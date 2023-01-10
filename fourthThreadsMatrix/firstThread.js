@@ -7,9 +7,7 @@ onmessage = function( { data: matrix } ) {
         const joinedArray = matrixArray.join('')
         const isHelloPresent = joinedArray.includes( 'hello' )
 
-        if ( isHelloPresent ) {
-            console.log( 'hello right to left' )
-        }
+        if ( isHelloPresent ) console.log( 'hello from left to right' )
     })
 
 }
