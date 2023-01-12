@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8f6332b-1bcd-440d-86be-bfbf39ed4e3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/firstThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/firstThread.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/fourthThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/fourthThread.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/secondThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/secondThread.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/thirdThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/thirdThread.js" afterDir="false" />
-    </list>
+    <list default="true" id="c8f6332b-1bcd-440d-86be-bfbf39ed4e3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +26,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Dev/school/java/ThreadRunnableInterface",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
@@ -46,6 +42,17 @@
       <updated>1673358616606</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -5,7 +5,7 @@
 
 /**
  *
- * @author chrio
+ * @author jose bayona
  */
 class RunnableDemo implements Runnable {
 
