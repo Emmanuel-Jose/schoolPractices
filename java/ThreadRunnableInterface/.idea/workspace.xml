@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8f6332b-1bcd-440d-86be-bfbf39ed4e3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/firstThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/firstThread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/fourthThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/fourthThread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/secondThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/secondThread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fourthThreadsMatrix/thirdThread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../js/fourthThreadsMatrix/thirdThread.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K8aLiDMHyTSel2p7inZFLanmhB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Dev/school/java/ThreadRunnableInterface",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f6332b-1bcd-440d-86be-bfbf39ed4e3e" name="Changes" comment="" />
+      <created>1673358616606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673358616606</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
