@@ -25,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Dev/school/java/ThreadRunnableInterface",
+    "last_opened_file_path": "C:/Dev/school/java/ConcurrencyMajorOperations",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -53,6 +53,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update author" />
+    <option name="LAST_COMMIT_MESSAGE" value="update author" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
