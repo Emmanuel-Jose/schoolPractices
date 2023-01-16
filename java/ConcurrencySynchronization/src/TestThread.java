@@ -8,7 +8,7 @@
  * @author chrio
  */
 class PrintDemo {
-   
+   // this is the mutex, this is the shared resources
    public void printCount() {
       
       try {
@@ -33,7 +33,7 @@ class ThreadDemo extends Thread {
    }
    
    public void run() {
-      
+      // java library that is in charge of synchronization, it does the synchronization automatically
       synchronized(PD) {
          PD.printCount();
       }
@@ -63,6 +63,7 @@ public class TestThread {
 
       // wait for threads to end
       try {
+         // destory the threads, this is optional, when a thread stop it is destroyed automatically
          T1.join();
          T2.join();
       } catch (Exception e) {
