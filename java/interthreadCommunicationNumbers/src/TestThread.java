@@ -3,6 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
+
 /**
  *
  * @author josca
@@ -11,8 +14,9 @@ class NumbersCheck {
 
     boolean flag = false;
     int numberToCheck;
+    ThreadLocal<Integer> threadLocalNumber = new ThreadLocal<Integer>();
 
-    public synchronized void setNumberToCheck(int numberToCheck) {
+    public synchronized void setNumberToCheck() {
 
         if ( flag ) {
             try {
@@ -22,7 +26,11 @@ class NumbersCheck {
             }
         }
 
-        this.numberToCheck = numberToCheck;
+        if (threadLocalNumber.get() == null) {
+            threadLocalNumber.set(0);
+        }
+        threadLocalNumber.set( ThreadLocalRandom.current().nextInt( 99 ) + 1 );
+        this.numberToCheck = threadLocalNumber.get();
         flag = true;
         notify();
     }
@@ -44,7 +52,8 @@ class NumbersCheck {
                 System.out.println(numberToCheck + " is not a prime number");
                 break;
             }
-            System.out.println(numberToCheck + " is a prime number");
+            System.out.println(numberToCheck + " is a prime number, its square is:" + numberToCheck * numberToCheck );
+            break;
         }
 
         flag = false;
@@ -56,8 +65,7 @@ class NumbersCheck {
 class Thread1 implements Runnable {
     // this thread will send numbers
     NumbersCheck nc;
-    int minValue = 1;
-    int maxValue = 99;
+    int number;
 
     Thread1(NumbersCheck nc) {
         this.nc = nc;
@@ -65,11 +73,9 @@ class Thread1 implements Runnable {
     }
 
     public void run() {
-        // generate random number
-        int number = (int) (Math.random() * (maxValue - minValue + 1)) + minValue;
-        nc.setNumberToCheck(number);
-
+        nc.setNumberToCheck();
     }
+
 }
 
 
