@@ -16,7 +16,7 @@ class NumbersCheck {
     int numberToCheck;
     ThreadLocal<Integer> threadLocalNumber = new ThreadLocal<Integer>();
 
-    public synchronized void setNumberToCheck() {
+    public synchronized void generateNumber() {
 
         if ( flag ) {
             try {
@@ -73,7 +73,7 @@ class Thread1 implements Runnable {
     }
 
     public void run() {
-        nc.setNumberToCheck();
+        nc.generateNumber();
     }
 
 }
