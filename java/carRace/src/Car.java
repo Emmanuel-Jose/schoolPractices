@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class Car extends Observable implements Runnable {
 
-    private String name;
+    private final String name;
     ThreadLocal<Integer> threadLocalNumber = new ThreadLocal<Integer>();
 
     public Car( String name ){
@@ -17,15 +17,17 @@ public class Car extends Observable implements Runnable {
         int randomNumber;
 
         try {
-            randomNumber = GetRandomNumber();
-            System.out.println("Car " + name + " number: " + randomNumber + " length: " + length);
-            length += randomNumber;
+            while ( length < 100 ) {
+                randomNumber = GetRandomNumber();
+                System.out.println("Car " + name + " number: " + randomNumber + " length: " + length);
+                length += randomNumber;
 
-            this.setChanged();
-            this.notifyObservers(length);
-            this.clearChanged();
+                this.setChanged();
+                this.notifyObservers(length);
+                this.clearChanged();
 
-            Thread.sleep(1000);
+                Thread.sleep(1000);
+            }
 
         } catch (InterruptedException ex){
             System.out.println("Thread interrupted");
@@ -38,7 +40,7 @@ public class Car extends Observable implements Runnable {
         if ( threadLocalNumber.get() == null ) {
             threadLocalNumber.set(0);
         }
-        threadLocalNumber.set(ThreadLocalRandom.current().nextInt(9 + 1));
+        threadLocalNumber.set(ThreadLocalRandom.current().nextInt(9) + 1);
         return threadLocalNumber.get();
     }
 
