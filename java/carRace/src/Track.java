@@ -33,6 +33,7 @@ class Track extends JFrame implements Observer {
         startRaceButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                lblWinner.setText("");
                 startRaceButton.setVisible(false);
                 for (int i = 0; i < threads.length; i++){
                     Car c = new Car("Car " + (i + 1));
