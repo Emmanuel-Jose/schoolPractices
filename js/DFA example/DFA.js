@@ -8,7 +8,6 @@ const automata = {
     ]
 }
 
-value = '000001'
 
 const checkAutomata = ( automata, value ) => {
 
@@ -24,4 +23,7 @@ const checkAutomata = ( automata, value ) => {
 
 }
 
-console.log( checkAutomata( automata, value ) );
+
+const value = prompt( 'Enter value' );
+const result = checkAutomata( automata, value );
+alert( result );
