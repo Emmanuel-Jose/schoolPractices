@@ -20,6 +20,12 @@ class Statistics implements Runnable {
             { 6.7, 4.8, 10 },
             { 9.6, 7.9, 7.8 },
     };
+    double[] average = new double[gradesMatrix.length];
+    double[] unitAverage = new double[gradesMatrix[0].length];
+    double mean = 0;
+    double variance = 0;
+    double standardDeviation = 0;
+
 
     Statistics(String name) {
         threadName = name;
@@ -31,12 +37,14 @@ class Statistics implements Runnable {
         switch (threadName) {
             case "Average" -> average();
             case "Unit Average" -> unitAverage();
-            case "Variance and Standard Deviation" -> varianceStandardDeviation();
+            case "Variance and Standard Deviation" -> {
+                calculateMean();
+                varianceStandardDeviation();
+            }
         }
     }
 
     private void average() {
-        double[] average = new double[gradesMatrix.length];
         for (int i = 0; i < gradesMatrix.length; i++) {
             double sum = 0;
             for (int j = 0; j < gradesMatrix[i].length; j++) {
@@ -44,11 +52,10 @@ class Statistics implements Runnable {
             }
             average[i] = sum / gradesMatrix[i].length;
         }
-        System.out.println("Average: " + Arrays.toString(average));
+        System.out.println("Students Average: " + Arrays.toString(average));
     }
 
     private void unitAverage() {
-        double[] unitAverage = new double[gradesMatrix[0].length];
         for (int i = 0; i < gradesMatrix[0].length; i++) {
             double sum = 0;
             for (double[] matrix : gradesMatrix) {
@@ -59,24 +66,28 @@ class Statistics implements Runnable {
         System.out.println("Unit Average: " + Arrays.toString(unitAverage));
     }
 
-    private void varianceStandardDeviation() {
-        double[] variance = new double[gradesMatrix[0].length];
-        double[] standardDeviation = new double[gradesMatrix[0].length];
-        for (int i = 0; i < gradesMatrix[0].length; i++) {
-            double sum = 0;
-            for (double[] matrix : gradesMatrix) {
-                sum += matrix[i];
+    private void calculateMean() {
+        double sum = 0;
+        for (double[] matrix : gradesMatrix) {
+            for (double grade : matrix) {
+                sum += grade;
             }
-            double unitAverage = sum / gradesMatrix.length;
-            double sumOfSquares = 0;
-            for (double[] matrix : gradesMatrix) {
-                sumOfSquares += Math.pow(matrix[i] - unitAverage, 2);
-            }
-            variance[i] = sumOfSquares / gradesMatrix.length;
-            standardDeviation[i] = Math.sqrt(variance[i]);
         }
-        System.out.println("Variance: " + Arrays.toString(variance));
-        System.out.println("Standard Deviation: " + Arrays.toString(standardDeviation));
+        mean = sum / (gradesMatrix.length * gradesMatrix[0].length);
+    }
+
+    private void varianceStandardDeviation() {
+        int count = 0;
+        for (double[] matrix : gradesMatrix) {
+            for (double grade : matrix) {
+                variance += Math.pow(grade - mean, 2);
+                count++;
+            }
+        }
+        variance /= count;
+        standardDeviation = Math.sqrt(variance);
+        System.out.println("Variance: " + variance);
+        System.out.println("Standard Deviation: " + standardDeviation);
     }
 
     public void start() {
