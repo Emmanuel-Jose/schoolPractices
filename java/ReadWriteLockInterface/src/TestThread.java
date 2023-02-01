@@ -3,10 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author jose
- */
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -17,7 +13,7 @@ public class TestThread {
     private static final ReentrantReadWriteLock lock = new ReentrantReadWriteLock(true);
     static File file;
 
-    private static void createFile() throws IOException {
+    private static void createFile(){
         file = new File("archivo.txt");
 //        myWriter = new FileWriter(file);
         try {

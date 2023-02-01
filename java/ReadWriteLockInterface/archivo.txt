@@ -2,3 +2,7 @@ File does not exist
 Port not reachable
 Server not responding
 Port not reachable
+Memory error
+Memory error
+Unexpected error
+Invalid path
