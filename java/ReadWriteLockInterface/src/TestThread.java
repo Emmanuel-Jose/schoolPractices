@@ -7,14 +7,19 @@
  *
  * @author chrio
  */
+import java.io.File;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class TestThread {
 
     private static final ReentrantReadWriteLock lock = new ReentrantReadWriteLock(true);
     private static String message = "a";
+    public static String route = "C:/Dev/school/java/ReadWriteLockInterface";
 
     public static void main(String[] args) throws InterruptedException {
+        // crear archivo txt
+        File file = new File(route);
+
         Thread t1 = new Thread(new WriterA());
         t1.setName("Writer A");
 
