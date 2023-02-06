@@ -6,24 +6,14 @@ public class Main {
     static JDBCConnection jdbcConnection = new JDBCConnection();
 
     static synchronized void dbRead() {
-        lock.readLock().lock();
-        try {
-            jdbcConnection.readAllUsers();
-        } finally {
-            lock.readLock().unlock();
-        }
+        jdbcConnection.readAllUsers();
     }
 
-    static synchronized void dbWrite( String name, String lastname ) {
-        lock.writeLock().lock();
-        try {
-            jdbcConnection.insertUser(name, lastname);
-        } finally {
-            lock.writeLock().unlock();
-        }
+    static void dbWrite( String name, String lastname ) {
+        jdbcConnection.insertUser(name, lastname);
     }
 
-    public static void main(String[] args) {
+    public static synchronized void main(String[] args) {
 
         Thread writer = new Thread( new Writer() );
         Thread reader = new Thread( new Reader() );
@@ -43,7 +33,12 @@ public class Main {
 
         @Override
         public void run() {
-            dbWrite("John6", "Doe6");
+            lock.writeLock().lock();
+            try {
+                dbWrite("John5", "Doe5");
+            } finally {
+                lock.writeLock().unlock();
+            }
         }
     }
 
@@ -51,7 +46,12 @@ public class Main {
     static class Reader implements Runnable {
         @Override
         public void run() {
-            dbRead();
+            lock.readLock().lock();
+            try {
+                dbRead();
+            } finally {
+                lock.readLock().unlock();
+            }
         }
     }
 
