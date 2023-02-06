@@ -3,10 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author chrio
- */
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -16,11 +12,10 @@ public class TestThread {
 
     private static final ReentrantReadWriteLock lock = new ReentrantReadWriteLock(true);
     static File file;
-    static FileWriter myWriter;
 
-    private static void createFile() throws IOException {
+    private static void createFile(){
         file = new File("archivo.txt");
-        myWriter = new FileWriter(file);
+//        myWriter = new FileWriter(file);
         try {
             if (file.createNewFile()) {
                 System.out.println("File created: " + file.getName());
@@ -32,10 +27,11 @@ public class TestThread {
         }
     }
 
-    private static void writeFile( int randomNumber ) throws InterruptedException {
+    private static void writeFile( int randomNumber )  {
         System.out.println(randomNumber);
         String message = getMessage( randomNumber );
         try {
+            FileWriter myWriter = new FileWriter(file, true);
             myWriter.write(message);
             myWriter.write("\n");
             myWriter.close();
@@ -64,11 +60,19 @@ public class TestThread {
         createFile();
 
         Thread t1 = new Thread(new Writer());
-        Thread t2 = new Thread(new WriterB());
+        Thread t2 = new Thread(new Writer());
+        Thread t3 = new Thread(new Writer());
+        Thread t4 = new Thread(new Writer());
+
         t1.setName("Writer A");
         t2.setName("Writer B");
+        t3.setName("Writer C");
+        t3.setName("Writer D");
+
         t1.start();
         t2.start();
+        t3.start();
+        t4.start();
 
 
     }
@@ -81,47 +85,10 @@ public class TestThread {
             try{
                 int randomNumber = (int) (Math.random() * 8) + 1;
                 writeFile( randomNumber );
-            } catch ( InterruptedException e ) {
-                e.printStackTrace();
             } finally {
                 lock.writeLock().unlock();
             }
         }
     }
-
-    static class WriterB implements Runnable {
-
-        public void run() {
-            lock.writeLock().lock();
-            try{
-                int randomNumber = (int) (Math.random() * 8) + 1;
-                writeFile( randomNumber );
-            } catch ( InterruptedException e ) {
-                e.printStackTrace();
-            } finally {
-                lock.writeLock().unlock();
-            }
-        }
-    }
-
-
-//    static class WriterA implements Runnable {
-//
-//        public void run() {
-//            lock.writeLock().lock();
-//
-//            try {
-//                Long duration = (long) (Math.random() * 10000);
-//                System.out.println(Thread.currentThread().getName()
-//                        + " Time Taken " + (duration / 1000) + " seconds.");
-//                Thread.sleep(duration);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            } finally {
-//                message = message.concat("a");
-//                lock.writeLock().unlock();
-//            }
-//        }
-//    }
 
 }

@@ -14,6 +14,7 @@ class ThreadDemo extends Thread {
     }
 
     public static void printBoard() {
+        System.out.println('\n');
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 if (board[i][j] == '\u0000') {
@@ -72,6 +73,7 @@ class ThreadDemo extends Thread {
         if (player == 1) {
             board[row][col] = 'X';
             if ( isWinner('X') ) {
+                System.out.println('\n');
                 System.out.println("Player 1 wins!");
                 gameOver = true;
                 printBoard();
@@ -83,10 +85,12 @@ class ThreadDemo extends Thread {
         } else {
             board[row][col] = 'O';
             if ( isWinner('O') ) {
+                System.out.println('\n');
                 System.out.println("Player 2 wins!");
                 gameOver = true;
                 printBoard();
             } else if (isBoardFull()) {
+                System.out.println('\n');
                 System.out.println("Draw!");
                 gameOver = true;
                 printBoard();
