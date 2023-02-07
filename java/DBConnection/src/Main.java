@@ -9,7 +9,7 @@ public class Main {
         jdbcConnection.readAllUsers();
     }
 
-    static void dbWrite( String name, String lastname ) {
+    static synchronized void dbWrite( String name, String lastname ) {
         jdbcConnection.insertUser(name, lastname);
     }
 
@@ -35,7 +35,7 @@ public class Main {
         public void run() {
             lock.writeLock().lock();
             try {
-                dbWrite("John5", "Doe5");
+                dbWrite("john", "doe");
             } finally {
                 lock.writeLock().unlock();
             }
