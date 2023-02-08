@@ -1,10 +1,13 @@
+import {SelectAutomata} from "./components/SelectAutomata";
 
 
-function App() {
+function App(): JSX.Element{
 
     return (
         <>
-            <h1 className='font-extrabold text-3xl'>React Typescript</h1>
+            <main className='w-screen h-screen flex flex-col justify-center items-center gap-y-6 bg-neutral-900'>
+                <SelectAutomata />
+            </main>
         </>
     )
 
