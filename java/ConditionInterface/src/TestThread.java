@@ -7,11 +7,15 @@
  *
  * @author chrio
  */
+import javax.swing.*;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.UnsupportedEncodingException;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class TestThread {
+public class TestThread extends javax.swing.JFrame {
 
     public static void main(String[] args) throws InterruptedException {
         ItemQueue itemQueue = new ItemQueue(12);
@@ -98,8 +102,19 @@ public class TestThread {
         @Override
         public void run() {
             String[] tasksList
-                    = {"T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9",
-                        "T10", "T11", "T12"};
+                    = { "cmd.exe " + "/c " + "ipconfig",
+                        "cmd.exe " + "/c " + "ping -n 3 google.com",
+                        "cmd.exe " + "/c " + "Hostname",
+                        "cmd.exe " + "/c " + "getmac",
+                        "cmd.exe " + "/c " + "arp -a",
+                        "cmd.exe " + "/c " + "tracert -d www.google.com",
+                        "cmd.exe " + "/c " + "nslookup www.google.com",
+                        "cmd.exe " + "/c " + "netstat",
+                        "cmd.exe " + "/c " + "netsh",
+                        "cmd.exe " + "/c " + "net",
+                        "cmd.exe " + "/c " + "pathping www.google.com",
+                        "cmd.exe " + "/c " + "systeminfo"
+            };
 
             try {
 
@@ -120,6 +135,8 @@ public class TestThread {
         public runTask(ItemQueue queue) {
             this.queue = queue;
         }
+        Runtime runtime  = Runtime.getRuntime();
+        InputStream in = null;
 
         @Override
         public void run() {
@@ -127,15 +144,31 @@ public class TestThread {
             try {
 
                 do {
-                    Object number = queue.remove();
-                    System.out.println("[Running Task]: " + number);
+                    Object task = queue.remove();
+                    System.out.println("[Running Task]: " + task);
 
-                    if (number == null) {
+                    Process exec = runtime.exec((String) task);
+                    in = exec.getInputStream();
+
+                    int length = -1;
+                    byte[] buffer = new byte[1024];
+                    StringBuilder sb = new StringBuilder();
+
+                    while ((length = in.read(buffer)) != -1) {
+                        sb.append(new String(buffer, 0, length, "GBK"));
+                    }
+
+                    System.out.println(sb.toString());
+
+
+                    if (task == null) {
                         return;
                     }
                 } while (!queue.isEmpty());
             } catch (InterruptedException ex) {
                 ex.printStackTrace();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
             } finally {
                 System.out.println("All threads ended successfully!");
             }
