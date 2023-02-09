@@ -1,14 +1,11 @@
 import {FormEvent, useEffect, useState} from "react";
-import {testValue} from "../helpers/testValue";
+import {InputAutomataProps} from "../types/types";
+import {validateDFA} from "../helpers/validateDFA";
+import {DFA1, DFA2, DFA3, DFA4} from "../helpers/DFAData";
 
 const regex: RegExp = new RegExp('^[a-z]+$');
 const hasOnlyLetters = (value: string): Boolean => regex.test(value);
 
-interface InputAutomataProps {
-    isAutomataValid: Function;
-    automataType: number;
-    onChangeMessageDisplayed: Function;
-}
 
 export const InputAutomata = ({ isAutomataValid, automataType, onChangeMessageDisplayed }: InputAutomataProps ): JSX.Element => {
 
@@ -17,10 +14,15 @@ export const InputAutomata = ({ isAutomataValid, automataType, onChangeMessageDi
 
     useEffect(()=> {
         (hasOnlyLetters(automataInput))
-            ? setInputMessage('valid string')
-            : setInputMessage("invalid string");
+            ? setInputMessage('')
+            : setInputMessage("you can't use numbers or special characters");
         onChangeMessageDisplayed(false);
     }, [ automataInput ])
+
+    useEffect(()=> {
+        setAutomataInput('');
+        onChangeMessageDisplayed(false);
+    }, [ automataType ])
     
     const onInputChange = ( e: FormEvent<HTMLInputElement> ): void => {
         const inputValue: string = e.currentTarget.value;
@@ -36,8 +38,24 @@ export const InputAutomata = ({ isAutomataValid, automataType, onChangeMessageDi
     }
 
     const validateAutomata = (): void => {
-        const result = testValue(automataInput);
-        isAutomataValid(result);
+        switch ( automataType ) {
+            case 1:
+                const isValidDFA1 = validateDFA( DFA1, automataInput );
+                isAutomataValid(isValidDFA1);
+                break;
+            case 2:
+                const isValidDFA2 = validateDFA( DFA2, automataInput );
+                isAutomataValid(isValidDFA2);
+                break;
+            case 3:
+                const isValidDFA3 = validateDFA( DFA3, automataInput );
+                isAutomataValid(isValidDFA3);
+                break;
+            case 4:
+                const isValidDFA4 = validateDFA( DFA4, automataInput );
+                isAutomataValid(isValidDFA4);
+                break;
+        }
     }
 
     return (
