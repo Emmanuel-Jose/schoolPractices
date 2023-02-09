@@ -26,7 +26,8 @@ export const InputAutomata = ({ isAutomataValid, automataType, onChangeMessageDi
     
     const onInputChange = ( e: FormEvent<HTMLInputElement> ): void => {
         const inputValue: string = e.currentTarget.value;
-        setAutomataInput(inputValue.toLowerCase());
+        const valueToCheck = inputValue.toLocaleLowerCase()
+        setAutomataInput(valueToCheck);
     }
 
     const onHanldeSubmit = ( e: FormEvent<HTMLFormElement> ): void => {
@@ -34,7 +35,6 @@ export const InputAutomata = ({ isAutomataValid, automataType, onChangeMessageDi
         validateAutomata();
         if ( automataInput !== '' ) onChangeMessageDisplayed(true);
         if ( !hasOnlyLetters(automataInput) ) onChangeMessageDisplayed(false);
-
     }
 
     const validateAutomata = (): void => {
