@@ -35,7 +35,7 @@ public class Main {
         public void run() {
             lock.writeLock().lock();
             try {
-                dbWrite("mario", "Alvarado");
+                dbWrite("pepe", "perez");
             } finally {
                 lock.writeLock().unlock();
             }
