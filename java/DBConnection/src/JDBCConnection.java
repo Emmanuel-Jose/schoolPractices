@@ -6,8 +6,8 @@ public class JDBCConnection {
     Connection connection;
     Statement statement;
     ResultSet resultSet;
-    private final String username = "jose";
-    private final String password = "jose";
+    private final String username = "root";
+    private final String password = "";
 
 
     JDBCConnection() {
@@ -17,7 +17,7 @@ public class JDBCConnection {
     }
 
     void createDB() {
-        String url = "jdbc:mysql://user@192.168.0.6:22";
+        String url = "jdbc:mysql://localhost:3307";
         String sql = "CREATE DATABASE IF NOT EXISTS school";
         try{
             connection = DriverManager.getConnection(url, username, password);
@@ -31,7 +31,7 @@ public class JDBCConnection {
     }
 
     void createTableUsers(){
-        String url = "jdbc:mysql://user@192.168.0.6:22/school";
+        String url = "jdbc:mysql://localhost:3307/school";
         String sql = "CREATE TABLE IF NOT EXISTS users (\n"
                 + "	id integer AUTO_INCREMENT PRIMARY KEY,\n"
                 + "	name VARCHAR(80),\n"
@@ -50,7 +50,7 @@ public class JDBCConnection {
     }
 
     void setConnection() {
-        String url = "jdbc:mysql://user@192.168.0.6:22/school";
+        String url = "jdbc:mysql://localhost:3307/school";
         try {
             connection = DriverManager.getConnection(url, username, password);
             statement = connection.createStatement();
