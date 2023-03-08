@@ -1,0 +1,1501 @@
+sourcePort,destinationPort,protocolName,IPgeo,deviceId,event_category,categoryDescription,eventDescription,relevance,credibility,severity,magnitude,Event_DateTime,eventCount
+52217,2000,tcp_ip,,31410,5010,Misc Exploit,Unrecognized Palo Alto PA Series Vulnerability Exploit Threat Event,8,10,9,9,"Mar 14, 2019, 8:26:53 PM",1
+51405,80,tcp_ip,,31410,7024,Information Leak,A directory traversal vulnerability has been discovered in parsing malformed HTTP requests. This vulnerability is due to a lack of proper checks in HTTP URI requests. A successful attack could result in access to sensitive information that could further aid in other attacks.,8,10,1,6,"Mar 14, 2019, 8:26:53 PM",1
+36002,445,tcp_ip,,31410,7024,Information Leak,This alert indicates an attempt to read a windows registry remotely has been detected.,8,10,1,6,"Mar 14, 2019, 8:26:52 PM",1
+35074,445,tcp_ip,,31410,7024,Information Leak,This alert indicates an attempt to read a windows registry remotely has been detected.,8,10,1,6,"Mar 14, 2019, 8:26:46 PM",1
+55631,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",66
+55991,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",39
+49792,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",9
+64121,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",4
+51662,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",3
+50545,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",2
+65255,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+65025,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+64920,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+64680,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+64674,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+64672,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+64670,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+64668,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+64576,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+64533,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+64382,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:45 PM",1
+64120,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+63991,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:55 PM",1
+63990,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:55 PM",1
+63989,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:56 PM",1
+63987,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:55 PM",1
+63986,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:55 PM",1
+63827,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+63806,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+63533,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:45 PM",1
+63421,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+63092,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+63040,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+63039,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+63029,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+62687,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+62686,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+62366,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+62185,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+62125,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+61978,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+61122,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+61067,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+60876,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+60875,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60573,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+60418,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+60178,443,tcp_ip,United States,31175,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 5:26:49 PM",1
+59461,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+59282,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+59150,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59149,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59148,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59147,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+59146,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+59144,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59143,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59142,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+59141,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+59140,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59139,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59138,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59136,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59133,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59132,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59131,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59130,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59129,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59127,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59125,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59123,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59122,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59121,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59120,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59118,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59117,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59115,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59114,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59113,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59112,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59111,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59110,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59109,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59108,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59107,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59106,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+59105,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59104,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+59103,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59102,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59101,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59100,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59098,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59097,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59095,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59094,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59093,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59091,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+59090,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59089,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59087,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59086,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59085,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59084,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59083,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59081,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59080,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59079,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59078,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59077,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59076,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+58908,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+58680,443,tcp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+58678,443,tcp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+58676,443,tcp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+58666,53,udp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+58544,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+58497,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+58333,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+58143,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+58142,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+58141,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+57979,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+57784,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+57738,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+57733,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+57729,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+57727,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+57673,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+57672,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+57539,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+57505,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+57493,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+57474,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57467,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+57466,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+57465,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+57147,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:45 PM",1
+56995,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:45 PM",1
+56876,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56689,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56685,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+56211,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56178,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+56177,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56090,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+56068,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+56062,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+55945,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+55906,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+55697,53,udp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+55608,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+55607,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+55600,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+55454,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:47 PM",1
+55340,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+55097,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+54893,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+54691,443,tcp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+54689,443,tcp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+54611,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+54610,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+54587,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+54447,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+54414,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:56 PM",1
+54291,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+54285,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+54284,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+54280,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+54279,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+54043,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+53824,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53766,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53739,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+53687,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53669,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53579,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53473,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53354,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53289,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+53260,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+53259,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+53140,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+53099,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+53058,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+52998,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52992,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52872,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52730,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52455,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52302,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+52211,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+52210,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+51983,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+51611,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+51476,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+51414,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+51278,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+51103,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+50945,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+50937,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+50936,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+50928,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+50925,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+50570,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+50569,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+50568,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+50567,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+50367,5671,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+50315,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+50314,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+49858,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49857,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49795,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+49794,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+49785,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+49777,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+49686,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49636,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49520,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+49486,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+49481,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+49473,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49462,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+49461,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+49282,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+48354,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+48210,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+46842,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+45337,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+44426,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+43767,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+42957,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+42136,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+41154,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+36310,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+36308,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+36306,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+36023,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+31060,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+30675,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+24776,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+24230,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+22435,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+21058,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+16421,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+13599,443,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 7:26:48 PM",1
+13097,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+11641,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+9900,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+9604,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+7431,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+2306,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+2303,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+123,123,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:58 PM",1
+123,123,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+123,123,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,United States,30096,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+123,123,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+20,37698,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+0,0,icmp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+59092,443,tcp_ip,Singapore,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+59091,443,tcp_ip,Singapore,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+58088,443,tcp_ip,Singapore,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+60457,443,tcp_ip,Ireland,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+59128,443,tcp_ip,Ireland,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:52 PM",1
+64534,443,tcp_ip,Europe,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+59975,53,udp_ip,Europe,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+58662,53,udp_ip,Europe,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+58473,53,udp_ip,Europe,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+58301,53,udp_ip,Europe,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+59248,443,tcp_ip,Canada,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+57779,80,tcp_ip,Canada,507,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+55841,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",10
+60137,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",9
+51473,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",6
+60137,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",5
+55294,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",3
+65483,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+64991,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+64804,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+64750,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+64577,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+64521,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+64469,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+64461,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+64013,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+63911,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+63856,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+63845,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+63561,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+63475,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+63433,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+63124,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+62938,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+62802,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+62546,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+62529,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+62433,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+62399,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+62364,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+62350,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+62306,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+62153,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+62153,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+62148,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+62127,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+61960,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+61419,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+61267,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+61267,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+61063,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60992,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60985,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60922,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+60755,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+60687,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+60602,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+60597,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60597,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+60054,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+59816,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+59549,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+59068,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+58767,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+58546,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+58298,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+58185,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+57941,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57875,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+57818,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+57784,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+57631,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57532,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57397,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+57005,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57001,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+57001,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+56975,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+56784,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56735,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56575,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+56333,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+56261,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+56115,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+55697,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:55 PM",1
+55651,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+55314,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+55249,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+55249,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:49 PM",1
+55096,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+54943,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+54835,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+54792,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+54473,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+54387,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+54362,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+54057,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+53991,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+53128,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52919,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+52613,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+52613,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+52547,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+52421,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+52380,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+52293,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:54 PM",1
+52236,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+52140,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+52117,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:48 PM",1
+51956,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+51263,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:53 PM",1
+51162,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+51037,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+50962,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:51 PM",1
+50249,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+50197,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+50074,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49921,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+49826,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:47 PM",1
+49826,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:46 PM",1
+49289,8413,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:45 PM",1
+39622,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+4040,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+1630,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+1629,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+1628,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+1627,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,10,10,0,6,"Mar 14, 2019, 8:26:50 PM",1
+47841,32773,tcp_ip,United States,32415,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 7:26:49 PM",1
+61034,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",65
+57046,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",42
+50136,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",33
+49837,53,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",28
+49727,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",28
+39929,8081,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",17
+42410,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",14
+38452,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",12
+53931,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",11
+48895,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",11
+51814,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",8
+46630,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",8
+41518,2034,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",8
+34615,5985,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",8
+51551,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",7
+43586,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",7
+59547,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",6
+49720,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",6
+33281,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",6
+59252,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",5
+47845,5357,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",5
+47102,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",5
+58904,8081,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",4
+57585,49427,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",4
+44688,5357,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",4
+39592,5985,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",4
+36072,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",4
+61067,8091,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",3
+43970,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",3
+35633,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",3
+63795,1158,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+62376,9100,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+58721,9100,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+58587,9100,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+58490,1521,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",2
+57777,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+57561,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",2
+53962,8091,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",2
+53824,4242,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",2
+53483,9100,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+50506,8091,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",2
+50373,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",2
+49598,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",2
+45512,5357,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",2
+40990,4242,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",2
+34869,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",2
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",2
+65406,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+65376,22001,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+65376,22001,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+65322,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+65284,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+65250,49998,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+65249,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+65139,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+65016,49998,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+64803,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+64676,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+64490,64002,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+64472,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+64340,21,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+64332,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+64096,88,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+63958,65457,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+63738,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+63532,2049,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+63232,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+62960,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+62802,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+62787,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+62786,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+62664,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+62261,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+62050,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+61957,88,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+61956,88,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+61616,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+61229,5163,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+60883,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+60802,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+60746,2826,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+60744,2826,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+60742,2826,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+60615,3615,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+60401,22,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+60398,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+60283,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+60262,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+60235,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+60212,1521,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59944,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59943,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59924,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+59920,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59919,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59917,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59916,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59915,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59914,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59910,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59907,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59905,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59902,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59901,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59900,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+59900,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59898,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59895,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59891,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59890,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59888,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59887,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59884,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59882,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59881,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59880,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59879,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59879,33333,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59877,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59874,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+59873,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59872,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59870,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59869,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59868,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59866,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59863,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59862,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59861,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59860,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59859,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59853,33333,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59853,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59851,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59840,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59838,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59838,33333,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59833,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59832,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59831,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59830,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59824,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59822,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+59821,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59817,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59815,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59814,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59813,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59810,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59809,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59806,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+59804,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59783,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+59782,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+59775,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59772,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59766,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59761,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59758,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59737,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59734,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59733,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+59732,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+59731,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+59693,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+59675,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+59534,3615,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+59511,3000,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+59430,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+59135,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+59116,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+59046,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+59018,8081,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+59004,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+58771,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+58744,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+58710,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+58709,445,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+58670,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+58600,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+58547,8081,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+58545,8444,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+58541,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+58524,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+58315,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+58313,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+58288,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+58148,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+58127,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+58099,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+58036,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57953,7680,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57934,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57930,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57929,8020,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57928,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57925,8020,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57922,40052,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57921,40052,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57917,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57915,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+57914,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57913,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57891,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57783,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57778,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57756,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57749,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57747,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57696,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57640,88,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57604,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57599,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57527,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57512,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57510,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57509,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57508,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57505,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57504,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57501,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57499,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57490,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57489,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57488,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57487,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+57483,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57480,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57479,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57476,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57475,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57474,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57473,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57472,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+57465,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57464,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57461,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57459,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57458,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57457,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57456,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57455,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57450,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57449,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57448,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57447,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57446,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57445,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+57442,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57439,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57438,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57437,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57432,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57431,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+57426,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57425,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57421,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57420,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57418,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57412,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+57410,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57409,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57408,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57404,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57403,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+57400,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+57396,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57394,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57390,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+57389,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57386,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57381,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57380,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57379,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57378,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57375,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57373,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+57369,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57367,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+57171,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+57022,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+57014,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+56947,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+56907,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+56830,8400,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+56823,2100,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+56812,8400,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+56808,8400,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+56634,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+56632,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+56552,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+56477,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+56304,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+56177,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+56130,22,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+56118,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+56063,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+56034,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+55963,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+55891,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+55786,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+55710,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+55670,5163,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+55655,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+55599,49998,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+55598,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+55589,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+55474,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+55471,5436,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+55449,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+55340,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+55309,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+55264,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+55263,7938,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+55262,5442,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+55259,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+55258,7938,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+55255,9156,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+55254,7938,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+55052,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+55041,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54971,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+54856,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+54833,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+54811,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+54768,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54762,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54761,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+54759,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54758,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54734,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+54708,2112,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+54603,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+54547,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+54541,5442,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+54527,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+54491,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+54353,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54329,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+54287,25,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54208,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+54149,88,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+54139,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+54025,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+54024,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+53976,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+53858,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+53833,9091,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+53793,7337,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+53781,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+53725,2049,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+53557,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+53557,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+53512,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+53502,8009,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+53488,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+53453,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+53416,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+53376,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+53342,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+53220,25925,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+53210,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+53048,5061,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+52834,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+52683,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+52635,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+52626,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+52577,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+52525,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+52517,55001,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+52414,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+52370,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+52310,636,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+52240,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+52101,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+52094,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+52047,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+51987,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+51937,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+51928,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+51786,7680,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+51731,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+51726,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+51702,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+51692,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+51662,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+51628,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+51328,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+51281,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+51238,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+51108,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+51101,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+51092,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+51032,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+50934,25,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+50924,9091,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+50828,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+50734,2000,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+50645,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+50632,7680,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+50628,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+50620,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+50619,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+50610,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+50602,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+50530,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+50470,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+50424,50010,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+50414,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+50413,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+50412,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+50367,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+50221,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+50111,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+50067,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+50045,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+49972,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49932,7077,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+49829,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49777,4244,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+49767,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49734,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49725,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+49711,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+49659,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+49627,22,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49608,6087,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49572,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+49539,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49539,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49527,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+49526,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49425,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49375,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+49329,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49211,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49184,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+49152,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+49042,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+49039,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+49034,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+48937,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+48801,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+48530,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+48349,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+48308,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+48201,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+48119,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+48057,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+48024,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+47981,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+47893,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+47806,22,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+47717,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+47668,8020,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+47596,8020,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+47542,8080,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+47262,1521,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+46936,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+46803,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+46600,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+46526,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+46302,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+46159,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+45975,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+45760,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+45674,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+45616,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+45584,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+45518,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+45509,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+45275,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+45202,1521,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+45157,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+45146,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+44983,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+44930,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+44858,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+44641,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+44589,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+44531,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+44202,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+44015,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+43256,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+43200,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+43101,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+43069,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+43067,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+43054,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+42764,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+42731,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+42646,7077,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+42594,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+42489,25,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+42363,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+42333,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+42315,389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+42082,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+41941,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+41810,8020,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+41694,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+41622,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+41502,2034,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+41187,8009,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+40989,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+40985,4243,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+40874,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+40491,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+40265,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+40176,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+40074,5985,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+39854,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+39371,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+39097,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+39078,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+38819,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+38752,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+38690,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+38535,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+38283,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+38278,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+38131,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+38123,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+38003,25925,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+37916,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+37746,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+37705,3389,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+37683,8443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+37540,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+37493,8182,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+37314,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+37148,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+36532,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+36520,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+36449,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+36363,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+36248,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+36228,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+36216,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+36184,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+36038,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+35863,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+35652,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+35575,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+35536,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+35480,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+35296,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+35263,22,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+35247,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+35171,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+34678,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+34672,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+34668,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+34603,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+34449,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+34416,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+34411,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+34363,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+34077,111,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+34068,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+34067,5666,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+33927,4899,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+33894,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+33770,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+33764,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+33624,6667,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+33431,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+33334,80,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+33299,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+33227,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+33118,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+33028,8443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+32994,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+32986,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+28923,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+26395,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+24836,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+16021,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+13743,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+8797,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+1626,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+1625,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+1624,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+1623,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+1086,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+1086,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+1062,161,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+514,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+161,50610,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+138,138,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+137,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:45 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+68,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+68,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+68,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+68,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+68,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:53 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,68,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+67,68,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:55 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:54 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:52 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:51 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:50 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:49 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:48 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:47 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,8,10,0,5,"Mar 14, 2019, 8:26:46 PM",1
+54028,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",2
+41740,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",2
+40682,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",2
+37578,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",2
+33447,88,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",2
+64578,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+64577,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+64576,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+63240,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:54 PM",1
+61317,162,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+61263,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+61258,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+61254,9156,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+60752,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+58613,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:54 PM",1
+53177,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+52873,389,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+52445,49154,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+52225,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+52225,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+49466,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:55 PM",1
+49466,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:49 PM",1
+49133,139,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+47515,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:49 PM",1
+46969,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+46960,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+46960,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+45926,135,tcp_ip,,31175,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 5:26:53 PM",1
+43888,49154,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+43532,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",1
+43442,49154,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+41719,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+41482,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+39108,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+38777,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:54 PM",1
+38500,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+36823,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+36823,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+36153,135,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+26597,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+26597,137,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+20823,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",1
+15751,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:46 PM",1
+11603,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+11390,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+9527,506,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:49 PM",1
+2643,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+2642,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+2639,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:50 PM",1
+2573,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+2567,8318,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+2561,9156,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+1571,1234,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+1110,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:53 PM",1
+1106,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+1105,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:53 PM",1
+1077,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",1
+1076,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:48 PM",1
+1073,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+1072,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:47 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:51 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:55 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+67,67,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:52 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,10,0,4,"Mar 14, 2019, 8:26:45 PM",1
+42666,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",9
+56940,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:48 PM",2
+16184,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",2
+0,0,icmp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",2
+0,0,icmp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",2
+65172,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:56 PM",1
+65103,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+65037,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:56 PM",1
+63473,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+61613,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:55 PM",1
+60272,53,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+59134,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+58996,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+58955,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+58567,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+58427,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:55 PM",1
+57913,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+57030,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+57008,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:55 PM",1
+56784,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+56704,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+56298,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+56118,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+56018,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:56 PM",1
+55852,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:55 PM",1
+55575,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:58 PM",1
+54449,80,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+52578,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+50024,8080,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+49496,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:48 PM",1
+48870,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+47961,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+47779,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+47512,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+47387,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:48 PM",1
+46999,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+45917,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+45784,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+45541,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+45238,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+44794,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+42990,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+42933,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+42913,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:56 PM",1
+42195,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+40045,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+38897,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+38673,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+38672,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+38584,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+37647,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+37262,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:57 PM",1
+36893,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+36210,53,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+34988,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+34987,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+34887,80,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+34215,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+34106,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+33592,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+33591,443,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+33364,443,tcp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:45 PM",1
+32989,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:48 PM",1
+31746,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+29666,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+28016,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+27112,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+25933,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+25783,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+25225,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+25118,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+23525,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+21578,8080,tcp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+20739,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+17128,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+16168,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+13659,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+11738,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+10525,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+9626,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+8310,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+7649,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:55 PM",1
+6875,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:54 PM",1
+6124,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:49 PM",1
+5016,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+2873,53,udp_ip,United States,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:53 PM",1
+123,123,udp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+0,0,icmp_ip,United States,507,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:44 PM",1
+39493,123,udp_ip,United Kingdom,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+123,123,udp_ip,United Kingdom,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+54072,443,tcp_ip,Canada,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+48892,443,tcp_ip,Canada,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:48 PM",1
+35712,443,tcp_ip,Canada,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:48 PM",1
+63886,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:52 PM",2
+60938,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",2
+61940,162,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+59049,162,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:47 PM",1
+34128,53,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:47 PM",1
+33196,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:46 PM",1
+32768,514,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:51 PM",1
+67,68,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:52 PM",1
+67,68,udp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,5,5,0,3,"Mar 14, 2019, 8:26:50 PM",1
+0,0,icmp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,6,5,0,3,"Mar 14, 2019, 8:26:47 PM",1
+53291,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:51 PM",4
+37151,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:48 PM",3
+54325,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:51 PM",2
+48065,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:55 PM",2
+26403,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:55 PM",2
+8877,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",2
+63594,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+59639,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:48 PM",1
+56664,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+55437,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+54614,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:50 PM",1
+54485,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+53677,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+52039,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:51 PM",1
+51996,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+51995,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+51636,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:55 PM",1
+51584,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+51554,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:55 PM",1
+49669,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+45993,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+45360,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:52 PM",1
+45345,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:53 PM",1
+45275,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+45250,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+44663,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+44519,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:48 PM",1
+43653,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+43264,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:52 PM",1
+42781,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+42697,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+42022,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+39716,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+39557,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+39463,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+34933,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+34172,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+32264,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+30629,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:48 PM",1
+30305,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+28982,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+28928,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+27421,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+25050,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+24409,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:51 PM",1
+24262,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:47 PM",1
+23797,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+23026,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+22305,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+21911,21,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+20249,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+19935,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+18941,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:47 PM",1
+17875,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+17085,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+15717,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+12157,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+9973,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+8975,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+8818,25,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+8526,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+7574,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:48 PM",1
+7369,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+5029,21,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+5021,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:54 PM",1
+4785,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:46 PM",1
+4652,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:53 PM",1
+2218,443,tcp_ip,,31410,4002,Firewall Permit,Session was allowed by policy,3,5,0,2,"Mar 14, 2019, 8:26:45 PM",1
+34243,25,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:54 PM",1
+34243,25,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:53 PM",1
+50972,123,udp_ip,United Kingdom,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:47 PM",1
+65108,9197,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:50 PM",1
+54441,9197,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:55 PM",1
+51641,9197,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:51 PM",1
+50766,9197,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:49 PM",1
+1900,3942,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,10,10,4,8,"Mar 14, 2019, 8:26:52 PM",1
+40118,1132,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:54 PM",1
+34132,8382,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:45 PM",1
+34132,46707,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:45 PM",1
+50991,161,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:55 PM",7
+3505,161,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:53 PM",5
+59267,8402,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:52 PM",2
+57641,1801,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:52 PM",2
+54082,8600,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:51 PM",2
+62684,514,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:45 PM",1
+62378,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:46 PM",1
+62003,7680,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:52 PM",1
+62003,7680,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+61881,7680,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:50 PM",1
+61304,7680,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:54 PM",1
+61304,7680,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:50 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:46 PM",1
+58180,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:46 PM",1
+58174,8611,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+57588,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+57055,5162,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:50 PM",1
+57055,5162,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+56842,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+51913,161,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+50331,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:50 PM",1
+50117,23,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:46 PM",1
+49159,135,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:51 PM",1
+49159,135,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+48059,464,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+48058,464,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+47826,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:45 PM",1
+47791,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+40399,464,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+40398,464,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+38432,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+38222,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+33226,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+30779,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+22229,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+15271,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:45 PM",1
+7994,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:48 PM",1
+6847,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:46 PM",1
+5182,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:49 PM",1
+4732,48002,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:54 PM",1
+4099,8612,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,8,10,4,7,"Mar 14, 2019, 8:26:47 PM",1
+0,0,icmp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,6,10,4,6,"Mar 14, 2019, 8:26:46 PM",1
+52212,25,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:49 PM",1
+52212,25,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:47 PM",1
+52212,25,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:46 PM",1
+48920,80,tcp_ip,United States,32415,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 7:26:51 PM",1
+500,2290,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:52 PM",1
+500,2290,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:49 PM",1
+500,2290,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:47 PM",1
+1900,3942,udp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,6,5,4,5,"Mar 14, 2019, 8:26:49 PM",1
+43859,443,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",5
+58113,3389,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+57133,9042,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:51 PM",1
+54819,445,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:50 PM",1
+54243,23,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+51959,445,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+49644,51219,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+49644,10200,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+49644,14615,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+44867,4500,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:48 PM",1
+43859,443,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:45 PM",1
+42334,137,udp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:54 PM",1
+41528,8011,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+40118,1894,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+40118,1894,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:45 PM",1
+39419,23,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+33353,23,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+14629,2323,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+11286,5555,tcp_ip,United States,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+22495,32776,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",8
+49214,5631,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:54 PM",4
+8261,25,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",2
+64822,14936,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+63486,16001,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+63486,16001,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:50 PM",1
+63486,16001,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+51870,23,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:52 PM",1
+46821,8470,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+37216,19411,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:48 PM",1
+37216,19411,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:45 PM",1
+29590,5631,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+29590,5631,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:52 PM",1
+24665,315,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+8115,593,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:52 PM",1
+8115,593,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+3865,24321,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+2150,23,tcp_ip,,31410,4003,Firewall Deny,Session was denied by application policy,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+63492,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:51 PM",7
+27610,9002,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:51 PM",4
+65291,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:52 PM",2
+63534,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:50 PM",2
+45282,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:46 PM",2
+63767,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:48 PM",1
+61904,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+59476,80,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:45 PM",1
+55545,53,udp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:56 PM",1
+49573,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:48 PM",1
+49508,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+49508,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:48 PM",1
+43622,23,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:54 PM",1
+43622,23,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+42552,65535,tcp_ip,United States,31175,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 5:26:49 PM",1
+42234,5987,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+42234,5987,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:48 PM",1
+42234,5987,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+41319,81,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+41319,81,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:45 PM",1
+41319,81,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:45 PM",1
+39304,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:52 PM",1
+36392,3389,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+36392,3389,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+36392,3389,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:47 PM",1
+33738,9306,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+33738,9306,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+33738,9306,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:45 PM",1
+20627,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:49 PM",1
+20627,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:48 PM",1
+8092,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:52 PM",1
+8092,445,tcp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:52 PM",1
+4296,53,udp_ip,United States,30096,4003,Firewall Deny,Session was denied by application policy,1,5,4,3,"Mar 14, 2019, 8:26:58 PM",1
+55685,53,udp_ip,United States,507,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 8:26:47 PM",1
+51385,443,tcp_ip,Poland,32415,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 7:26:46 PM",1
+51413,8200,tcp_ip,Europe,32415,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 7:26:51 PM",2
+51388,443,tcp_ip,Denmark,32415,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 7:26:51 PM",1
+51387,443,tcp_ip,Denmark,32415,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 7:26:51 PM",1
+68,67,udp_ip,Australia,507,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,10,10,4,8,"Mar 14, 2019, 8:26:44 PM",1
+48968,2324,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,6,5,"Mar 14, 2019, 8:26:52 PM",1
+48968,2324,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,6,5,"Mar 14, 2019, 8:26:50 PM",1
+48968,2324,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,6,5,"Mar 14, 2019, 8:26:48 PM",1
+48968,2324,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,6,5,"Mar 14, 2019, 8:26:48 PM",1
+48968,2324,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,6,5,"Mar 14, 2019, 8:26:47 PM",1
+65423,23,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+57966,20927,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:52 PM",1
+57408,44777,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+53739,520,udp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+53360,23,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+52569,4168,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:49 PM",1
+52569,3815,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+52569,4168,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:46 PM",1
+51588,23,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+48622,445,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+44873,23,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:51 PM",1
+44838,3408,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:54 PM",1
+44468,520,udp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:47 PM",1
+40235,3499,tcp_ip,United States,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:48 PM",1
+54977,445,tcp_ip,,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1
+54977,445,tcp_ip,,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:50 PM",1
+42955,23,tcp_ip,,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:55 PM",1
+42497,3408,tcp_ip,,31410,4015,Access Denied,Session denied due to no allow rule or port-based deny rule,3,5,4,4,"Mar 14, 2019, 8:26:53 PM",1

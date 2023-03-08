@@ -62,10 +62,13 @@ export const SelectAutomata = (): JSX.Element => {
                     className='w-5/6 sm:w-3/4 md:w-1/2 h-10 sm:h-12 bg-neutral-800 text-neutral-100 rounded-md focus:outline-none px-2.5'
                 >
                     <option value='0'>Select an automata</option>
-                    <option value="1">Automata 1</option>
-                    <option value="2">Automata 2</option>
+                    {/* <option value="1">Automata 1</option> */}
+                    {/* <option value="2">Automata 2</option> */}
                     <option value="3">Automata 3</option>
-                    <option value="4">Automata 4</option>
+                    {/* <option value="4">Automata 4</option> */}
+                    <option value="5">Automata 5</option>
+                    {/* <option value="6">Automata 6</option> */}
+                    {/* <option value="7">Automata 7</option> */}
                 </select>
             </section>
 
