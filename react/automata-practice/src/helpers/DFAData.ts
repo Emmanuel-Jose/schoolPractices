@@ -54,6 +54,7 @@ export const DFA3: DFA = {
     transitions: {
         q1: {
             a: 'q2',
+            ' ': 'q3'
         },
         q2: {
             a: 'q2',
@@ -72,6 +73,7 @@ export const DFA4: DFA = {
     transitions: {
         q1: {
             a: 'q2',
+            ' ': 'q3'
         },
         q2: {
             a: 'q2',
@@ -97,6 +99,7 @@ export const DFA5: DFA = {
     transitions: {
         q1: {
             1: 'q2',
+            ' ': 'q1'
         },
         q2: {
             1: 'q1',
