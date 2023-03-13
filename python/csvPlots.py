@@ -1,5 +1,6 @@
 import threading
 import pandas as pd
+import time
 import matplotlib.pyplot as plt
 
 # read the csv
@@ -77,6 +78,8 @@ def main():
     num_of_threads = 6
     threads = []
 
+    start_time = time.time()
+
     for i in range(num_of_threads):
         threads.append(
             threading.Thread(target=thread_function, args=(i,))
@@ -92,6 +95,8 @@ def main():
     print(results)
     for i in results:
         print(i, results[i])
+
+    print("--- %s seconds ---" % (time.time() - start_time))
 
     # adjust spacing
     plt.subplots_adjust(hspace=1)
